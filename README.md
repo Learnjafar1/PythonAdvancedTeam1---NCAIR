@@ -12,6 +12,8 @@ This project was done by a team of 4:
 - Jafar Musa: A Graduate of Architecture from Bayero Univerity, Kano, Kano State.
 - Mercy Okanlawon: A Mechanical Engineering Student from Ladoke Akintola University of Technology, Oyo State. 
 
-Tech Stack: Python
+### Technologies Used
 
-Package: Pygame
+- Tech Stack: Python
+
+- Package: Pygame
